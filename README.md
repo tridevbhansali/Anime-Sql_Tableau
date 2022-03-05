@@ -10,7 +10,7 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 cleaning processes in `SQL`, with some important functions in result of exploring the dataset,
 handling null values, converting variables in other formats etc.
 
-2.Connecting `Tableau` with MySql database and visualising using barchart, piechart, linechart
+2.Connecting `Tableau` with MySql database and visualising using barchart, piechart, etc
 while applying filters to find the required information.  
 
 
