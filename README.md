@@ -32,5 +32,6 @@ while applying filters to find the required information.
 
 ## Live Demo
 
-![Dashboard on Tableu Public](https://raw.githubusercontent.com/tridevbhansali/Anime-Sql_Tableau/blob/main/Final%20dasboard.png)
+![alt text](https://github.com/tridevbhansali/Anime-Sql_Tableau/blob/main/Final%20dasboard.png)
+
 
