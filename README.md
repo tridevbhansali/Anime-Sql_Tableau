@@ -32,5 +32,5 @@ while applying filters to find the required information.
 
 ## Live Demo
 
-![App Screenshot](https://via.placeholder.com/468x300?text=)
+![Dashboard on Tableu Public](https://raw.githubusercontent.com/ptyadana/SQL-Tableau-Data-Analysis-Visualization-Projects/master/screenshot.png)
 
