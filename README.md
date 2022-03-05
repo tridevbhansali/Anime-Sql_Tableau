@@ -1,5 +1,5 @@
 
-# Anime Recommendations (Sql - Tableau)
+# Anime Searcher (Sql - Tableau)
 
 Compilation of SQL - Tableau integration projects for Data Analytics, Business Intelligence and Data Visualizations.
 
