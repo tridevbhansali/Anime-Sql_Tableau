@@ -31,6 +31,7 @@ while applying filters to find the required information.
 
 
 ## Live Demo
++ [view Project Details on Tableau Public](https://public.tableau.com/app/profile/tridev/viz/Anime_searcher/Finaldasboard)
 
 ![alt text](https://github.com/tridevbhansali/Anime-Sql_Tableau/blob/main/Final%20dasboard.png)
 
